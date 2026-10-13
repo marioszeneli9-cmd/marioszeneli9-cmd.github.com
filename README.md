@@ -1,2 +1,2 @@
 # marioszeneli9-cmd.github.com
-descreption: Θέλω να ξέρεις πως σε αγαπάω πολύ!!!
+description: Θέλω να ξέρεις πως σε αγαπάω πολύ!!!
